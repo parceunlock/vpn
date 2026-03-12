@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "ovpn_url": "https://raw.githubusercontent.com/parceunlock/vpn/main/VPNOK.ovpn",
+  "ovpn_url": "https://raw.githubusercontent.com/parceunlock/vpn/main/VPNFREE.ovpn",
   "apk_version": 220,
-  "apk_url": "https://github.com/parceunlock/vpn/releases/download/APK/MAGISVPNUPDATE.apak",
+  "apk_url": "https://github.com/parceunlock/vpn/releases/download/APK/MAGISVPNUPDATE.apk",
   "changelog": "Mejoras de conexión"
 }
